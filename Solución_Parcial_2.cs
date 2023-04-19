@@ -1,7 +1,7 @@
 
 int dato1 = 16;
 String dato2 = "25g";
-int resultado = dato1 + Convert. ToInt32( dato2);
+int resultado = dato1 + Convert. ToInt32(dato2);
 
 int dato1 = 16;
 String dato2 = "25g";
